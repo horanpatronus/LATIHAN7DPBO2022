@@ -3,5 +3,4 @@ Repositori ini dibuat untuk memenuhi tugas praktikum mata kuliah Desain Pemrogra
 
 _Saya Rahma Maulida 2003688 mengerjakan Latihan 7 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin._
 
-https://user-images.githubusercontent.com/91965618/161604128-f9eac13f-f6a4-4bed-acb2-664a579bd28d.mp4
-
+https://user-images.githubusercontent.com/91965618/161604823-4ec2bf31-e015-4bc0-80d5-c2cf0877687a.mp4
